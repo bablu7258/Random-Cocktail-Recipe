@@ -29,7 +29,7 @@ npm install -g nodemon
 
 Installation Steps
 Clone the repository onto your local computer:
-git clone https://github.com/your-username/your-repo-name.git
+git clone (https://github.com/bablu7258/Random-Cocktail-Recipe.git)
 
 Change into the project directory:
 cd your-repo-name
